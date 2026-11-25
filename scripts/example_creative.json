@@ -1,0 +1,67 @@
+{
+ "headline": [
+  "INCUBATOR ALERTS.",
+  "BEFORE IT'S TOO LATE."
+ ],
+ "subtitle": "IVF Lab Monitoring System in Delhi",
+ "features": [
+  [
+   "check",
+   "Real-Time Dashboard",
+   "Cloud access, any device"
+  ],
+  [
+   "bell",
+   "Instant Alerts",
+   "SMS & email, 24/7"
+  ],
+  [
+   "chart",
+   "Reports",
+   "For every incubator"
+  ],
+  [
+   "cloud",
+   "Remote Monitoring",
+   "Track from anywhere"
+  ]
+ ],
+ "ideal_for": [
+  [
+   "flask",
+   "IVF Clinics"
+  ],
+  [
+   "hospital",
+   "Hospitals"
+  ],
+  [
+   "building",
+   "Laboratories"
+  ],
+  [
+   "snow",
+   "Cold Storage"
+  ],
+  [
+   "pill",
+   "Pharma"
+  ]
+ ],
+ "contact": [
+  [
+   "T",
+   "9871227102"
+  ],
+  [
+   "W",
+   "www.techmedsmartsense.com"
+  ],
+  [
+   "@",
+   "gunwant@techmedsales.com"
+  ]
+ ],
+ "device_label": "Smart Sense Data Logger",
+ "device_reading": "37.0 °C"
+}
